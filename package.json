@@ -1,0 +1,26 @@
+{
+  "name": "stylelined",
+  "version": "1.0.0",
+  "description": "styled-components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easymindx/stylelined.git"
+  },
+  "keywords": [
+    "styled-components",
+    "inline"
+  ],
+  "author": "easymind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easymindx/stylelined/issues"
+  },
+  "homepage": "https://github.com/easymindx/stylelined#readme",
+  "dependencies": {
+    "styled-components": "^6.1.8"
+  }
+}
